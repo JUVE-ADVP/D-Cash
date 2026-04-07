@@ -1,7 +1,7 @@
 # JUVE-Cash
-Relatório do departamento
+Relatórios de transparência financeira do departamento de jovens da Igreja ADVP.
 
-[ ] FASE 01: Planejamento  
+[x] FASE 01: Planejamento  
 [ ] FASE 02: Estrutura HTML e CSS  
 [ ] FASE 03: JavaScript  
 [ ] FASE 04: Configuração CMS  
