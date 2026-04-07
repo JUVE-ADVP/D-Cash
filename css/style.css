@@ -1,0 +1,58 @@
+:root {
+    --cor-bg-body: #f0f0f0;
+    --cor-bg-card: #ffffff;
+    --cor-tx-menu: #AAAAAA;
+}
+
+body {
+    padding: 12px;
+    box-sizing: border-box;
+     
+    display: flex;
+    justify-content: center;  
+    align-items: center;     
+    min-height: 100vh;       
+    margin: 0;                
+
+    background-color: var(--cor-bg-body);
+}
+
+p{
+    margin: 0;
+}
+
+/* ÍCONES */
+.dot{
+    fill:"red";
+}
+
+
+.report {
+    display: flex;
+    /* grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: repeat(5, 1fr); */
+    gap: 12px; 
+} 
+
+.menu{
+    background-color: var(--cor-bg-card); 
+}
+
+.infos {
+    display: flex;
+    gap: 20px;
+
+    background-color: var(--cor-bg-card); 
+}
+
+.title {
+    display: flex;
+    justify-content: center;  
+    align-items: center;  
+    gap: 6px;
+
+    padding: 12px 36px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    color: var(--cor-tx-menu);
+}
