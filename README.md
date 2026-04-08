@@ -2,7 +2,7 @@
 Relatórios de transparência financeira do departamento de jovens da Igreja ADVP.
 
 [x] FASE 01: Planejamento  
-[ ] FASE 02: Estrutura HTML e CSS  
+[-] FASE 02: Estrutura HTML e CSS  
 [ ] FASE 03: JavaScript  
 [ ] FASE 04: Configuração DECAP CMS  
 [ ] FASE 05: Ajustes JavaScript  
